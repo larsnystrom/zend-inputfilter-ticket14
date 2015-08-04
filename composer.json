@@ -1,0 +1,21 @@
+{
+    "name": "larsnystrom/zend-inputfiter-ticket14",
+    "authors": [
+        {
+            "name": "Lars Nyström",
+            "email": "nystrom.lars.egon@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zend-inputfilter": "^2.5",
+        "zendframework/zend-mvc": "^2.5",
+        "zendframework/zend-modulemanager": "^2.5",
+        "zendframework/zend-loader": "^2.5",
+        "zendframework/zend-view": "^2.5",
+        "zendframework/zend-serializer": "^2.5",
+        "zendframework/zend-log": "^2.6",
+        "zendframework/zend-i18n": "^2.5",
+        "zendframework/zend-console": "^2.5",
+        "zendframework/zend-http": "^2.5"
+    }
+}
